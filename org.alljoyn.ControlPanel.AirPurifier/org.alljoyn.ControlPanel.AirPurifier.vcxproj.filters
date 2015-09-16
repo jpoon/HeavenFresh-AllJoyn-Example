@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>7e05db3e-3c16-4979-aa07-8f3113d52163</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="AirPurifierConsumer.cpp" />
+    <ClCompile Include="AirPurifierProducer.cpp" />
+    <ClCompile Include="AirPurifierServiceEventAdapter.cpp" />
+    <ClCompile Include="AirPurifierServiceEventArgs.cpp" />
+    <ClCompile Include="AirPurifierSignals.cpp" />
+    <ClCompile Include="AirPurifierWatcher.cpp" />
+    <ClCompile Include="AllJoynBusObjectManager.cpp" />
+    <ClCompile Include="AllJoynHelpers.cpp" />
+    <ClCompile Include="TypeConversionHelpers.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="AirPurifierConsumer.h" />
+    <ClInclude Include="AirPurifierEventArgs.h" />
+    <ClInclude Include="AirPurifierMethodResults.h" />
+    <ClInclude Include="AirPurifierProducer.h" />
+    <ClInclude Include="AirPurifierServiceEventAdapter.h" />
+    <ClInclude Include="AirPurifierServiceEventArgs.h" />
+    <ClInclude Include="AirPurifierSignals.h" />
+    <ClInclude Include="AirPurifierStructures.h" />
+    <ClInclude Include="AirPurifierWatcher.h" />
+    <ClInclude Include="AllJoynBusObjectManager.h" />
+    <ClInclude Include="AllJoynHelpers.h" />
+    <ClInclude Include="IAirPurifierService.h" />
+    <ClInclude Include="TypeConversionHelpers.h" />
+  </ItemGroup>
+</Project>

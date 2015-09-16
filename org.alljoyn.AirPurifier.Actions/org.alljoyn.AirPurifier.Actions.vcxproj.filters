@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>d2852393-6c84-49eb-8c5d-9572129e1ed8</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tga;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="ActionsConsumer.cpp" />
+    <ClCompile Include="ActionsProducer.cpp" />
+    <ClCompile Include="ActionsServiceEventAdapter.cpp" />
+    <ClCompile Include="ActionsServiceEventArgs.cpp" />
+    <ClCompile Include="ActionsSignals.cpp" />
+    <ClCompile Include="ActionsWatcher.cpp" />
+    <ClCompile Include="AllJoynBusObjectManager.cpp" />
+    <ClCompile Include="AllJoynHelpers.cpp" />
+    <ClCompile Include="TypeConversionHelpers.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="ActionsConsumer.h" />
+    <ClInclude Include="ActionsEventArgs.h" />
+    <ClInclude Include="ActionsMethodResults.h" />
+    <ClInclude Include="ActionsProducer.h" />
+    <ClInclude Include="ActionsServiceEventAdapter.h" />
+    <ClInclude Include="ActionsServiceEventArgs.h" />
+    <ClInclude Include="ActionsSignals.h" />
+    <ClInclude Include="ActionsStructures.h" />
+    <ClInclude Include="ActionsWatcher.h" />
+    <ClInclude Include="AllJoynBusObjectManager.h" />
+    <ClInclude Include="AllJoynHelpers.h" />
+    <ClInclude Include="IActionsService.h" />
+    <ClInclude Include="TypeConversionHelpers.h" />
+  </ItemGroup>
+</Project>
