@@ -160,10 +160,6 @@
       <Project>{245C8EDB-46CA-48DC-8CF8-9490A45F5872}</Project>
       <Name>org.alljoyn.Icon</Name>
     </ProjectReference>
-    <ProjectReference Include="..\org.alljoyn.Onboarding\org.alljoyn.Onboarding.vcxproj">
-      <Project>{5CC66938-8658-4260-A610-457B983532E0}</Project>
-      <Name>org.alljoyn.Onboarding</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
