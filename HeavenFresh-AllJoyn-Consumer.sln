@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeavenFresh", "HeavenFresh\HeavenFresh.csproj", "{E982BC9A-0FD9-4406-9A74-D73F7262BA6B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "org.alljoyn.Onboarding", "org.alljoyn.Onboarding\org.alljoyn.Onboarding.vcxproj", "{5CC66938-8658-4260-A610-457B983532E0}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "org.alljoyn.ControlPanel.AirPurifier", "org.alljoyn.ControlPanel.AirPurifier\org.alljoyn.ControlPanel.AirPurifier.vcxproj", "{880C9640-5E26-46A9-8440-FB2A4FFEA798}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "org.alljoyn.Icon", "org.alljoyn.Icon\org.alljoyn.Icon.vcxproj", "{245C8EDB-46CA-48DC-8CF8-9490A45F5872}"
@@ -51,18 +49,6 @@ Global
 		{E982BC9A-0FD9-4406-9A74-D73F7262BA6B}.Release|x86.ActiveCfg = Release|x86
 		{E982BC9A-0FD9-4406-9A74-D73F7262BA6B}.Release|x86.Build.0 = Release|x86
 		{E982BC9A-0FD9-4406-9A74-D73F7262BA6B}.Release|x86.Deploy.0 = Release|x86
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|ARM.ActiveCfg = Debug|ARM
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|ARM.Build.0 = Debug|ARM
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|x64.ActiveCfg = Debug|x64
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|x64.Build.0 = Debug|x64
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|x86.ActiveCfg = Debug|Win32
-		{5CC66938-8658-4260-A610-457B983532E0}.Debug|x86.Build.0 = Debug|Win32
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|ARM.ActiveCfg = Release|ARM
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|ARM.Build.0 = Release|ARM
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|x64.ActiveCfg = Release|x64
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|x64.Build.0 = Release|x64
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|x86.ActiveCfg = Release|Win32
-		{5CC66938-8658-4260-A610-457B983532E0}.Release|x86.Build.0 = Release|Win32
 		{880C9640-5E26-46A9-8440-FB2A4FFEA798}.Debug|ARM.ActiveCfg = Debug|ARM
 		{880C9640-5E26-46A9-8440-FB2A4FFEA798}.Debug|ARM.Build.0 = Debug|ARM
 		{880C9640-5E26-46A9-8440-FB2A4FFEA798}.Debug|x64.ActiveCfg = Debug|x64
